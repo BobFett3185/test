@@ -52,6 +52,21 @@ with open(followersFile, 'r', encoding='utf-8') as file:
 
 #veiny ahh dih long ahh dih
 # blah blah 
+'''
+# to push something use these commands 
+git add . 
+git commit -m "message you wanna put"
+git push origin master
+
+# to add to another branch
+git checkout
+git branch <enter branch name>
+git branch model
+git add .
+git push origin main 
+if collaborating it will make u pull his code first and then you can push yours you want
+
+'''
 
 auraMoggers=[]
 moggercount=0
